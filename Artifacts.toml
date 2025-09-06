@@ -8,3 +8,80 @@ os = "linux"
     [[GAP.download]]
     sha256 = "32b1ab79d53ed76418c3457d04025165112c115148346c20b2ada8ce8074aae8"
     url = "https://github.com/lgoettgens/GAP_jll.jl/releases/download/GAP-v400.1500.0+0/GAP.v400.1500.0.x86_64-linux-gnu-julia_version+1.11.0.tar.gz"
+[[GAP]]
+arch = "aarch64"
+git-tree-sha1 = "34a0ebf849e36fca85b2c66db63a316435abe433"
+julia_version = "1.11.1"
+os = "macos"
+
+    [[GAP.download]]
+    sha256 = "f602806e4bfff30afab4b6f5fd47a82903f3636352b204ec5eb7eb08144982cf"
+    url = "https://github.com/lgoettgens/GAP_jll.jl/releases/download/GAP-v400.1500.0+0/GAP.v400.1500.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+[[GAP]]
+arch = "aarch64"
+git-tree-sha1 = "8c1078767f5f166a568b57e02209ef8ef190d6b1"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[GAP.download]]
+    sha256 = "8393c0bf40c6c7dca58826ab4de5cc6a87960260d01f359e584fcb39f433866b"
+    url = "https://github.com/lgoettgens/GAP_jll.jl/releases/download/GAP-v400.1500.0+0/GAP.v400.1500.0.aarch64-linux-gnu-julia_version+1.11.1.tar.gz"
+[[GAP]]
+arch = "aarch64"
+git-tree-sha1 = "bd222f27d01265b5f20e2102b293b0428370a861"
+julia_version = "1.11.1"
+libc = "musl"
+os = "linux"
+
+    [[GAP.download]]
+    sha256 = "4cf8680d30a238838c2d9e551e22f3078a45688936c1add2783e8347d3e60291"
+    url = "https://github.com/lgoettgens/GAP_jll.jl/releases/download/GAP-v400.1500.0+0/GAP.v400.1500.0.aarch64-linux-musl-julia_version+1.11.1.tar.gz"
+[[GAP]]
+arch = "powerpc64le"
+git-tree-sha1 = "f74b0a87b239d6f8d1862cf85a07aad51a35561e"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[GAP.download]]
+    sha256 = "5b9b55e4355d79dc8c9afe15376b83b8217a31fc5ca0989164a899ea876ad099"
+    url = "https://github.com/lgoettgens/GAP_jll.jl/releases/download/GAP-v400.1500.0+0/GAP.v400.1500.0.powerpc64le-linux-gnu-julia_version+1.11.1.tar.gz"
+[[GAP]]
+arch = "x86_64"
+git-tree-sha1 = "bf9931890710091ff319fc9ddfa8bc95a8309f6d"
+julia_version = "1.11.1"
+os = "macos"
+
+    [[GAP.download]]
+    sha256 = "a579694a198b9d781f2387f51c8b995dfbd9056aa824a188c7dbee14b6926a99"
+    url = "https://github.com/lgoettgens/GAP_jll.jl/releases/download/GAP-v400.1500.0+0/GAP.v400.1500.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+[[GAP]]
+arch = "x86_64"
+git-tree-sha1 = "e1595eec9a2d3cc43e187bd49e19d0d8026c9952"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[GAP.download]]
+    sha256 = "32b1ab79d53ed76418c3457d04025165112c115148346c20b2ada8ce8074aae8"
+    url = "https://github.com/lgoettgens/GAP_jll.jl/releases/download/GAP-v400.1500.0+0/GAP.v400.1500.0.x86_64-linux-gnu-julia_version+1.11.1.tar.gz"
+[[GAP]]
+arch = "x86_64"
+git-tree-sha1 = "493cbb66f5646db49c1e17a84830ff1d27d53e7b"
+julia_version = "1.11.1"
+libc = "musl"
+os = "linux"
+
+    [[GAP.download]]
+    sha256 = "cf4029f5c0e47218758f1d136c4b4f85939a2819771ca57d3a6cbc65a065323b"
+    url = "https://github.com/lgoettgens/GAP_jll.jl/releases/download/GAP-v400.1500.0+0/GAP.v400.1500.0.x86_64-linux-musl-julia_version+1.11.1.tar.gz"
+[[GAP]]
+arch = "x86_64"
+git-tree-sha1 = "b4cc4c5c802b7d99250d56d7883064183e9cf1ae"
+julia_version = "1.11.1"
+os = "freebsd"
+
+    [[GAP.download]]
+    sha256 = "14ae59b862cafe6f3e80ec5b2cf5a07396892b0cfb0c1dd07b5c9c2deff5f3de"
+    url = "https://github.com/lgoettgens/GAP_jll.jl/releases/download/GAP-v400.1500.0+0/GAP.v400.1500.0.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"

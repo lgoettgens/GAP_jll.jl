@@ -17,7 +17,14 @@ The tarballs for `GAP_jll.jl` have been built from these sources:
 
 `GAP_jll.jl` is available for the following platforms:
 
-* `Linux x86_64 {julia_version=1.11.0, libc=glibc}` (`x86_64-linux-gnu-julia_version+1.11.0`)
+* `macOS aarch64 {julia_version=1.11.1}` (`aarch64-apple-darwin-julia_version+1.11.1`)
+* `Linux aarch64 {julia_version=1.11.1, libc=glibc}` (`aarch64-linux-gnu-julia_version+1.11.1`)
+* `Linux aarch64 {julia_version=1.11.1, libc=musl}` (`aarch64-linux-musl-julia_version+1.11.1`)
+* `Linux powerpc64le {julia_version=1.11.1, libc=glibc}` (`powerpc64le-linux-gnu-julia_version+1.11.1`)
+* `macOS x86_64 {julia_version=1.11.1}` (`x86_64-apple-darwin-julia_version+1.11.1`)
+* `Linux x86_64 {julia_version=1.11.1, libc=glibc}` (`x86_64-linux-gnu-julia_version+1.11.1`)
+* `Linux x86_64 {julia_version=1.11.1, libc=musl}` (`x86_64-linux-musl-julia_version+1.11.1`)
+* `FreeBSD x86_64 {julia_version=1.11.1}` (`x86_64-unknown-freebsd-julia_version+1.11.1`)
 
 ## Dependencies
 
