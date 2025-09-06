@@ -1,0 +1,10 @@
+[[GAP]]
+arch = "x86_64"
+git-tree-sha1 = "e1595eec9a2d3cc43e187bd49e19d0d8026c9952"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[GAP.download]]
+    sha256 = "32b1ab79d53ed76418c3457d04025165112c115148346c20b2ada8ce8074aae8"
+    url = "https://github.com/lgoettgens/GAP_jll.jl/releases/download/GAP-v400.1500.0+0/GAP.v400.1500.0.x86_64-linux-gnu-julia_version+1.11.0.tar.gz"
